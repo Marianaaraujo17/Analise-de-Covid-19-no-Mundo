@@ -15,3 +15,7 @@
 - Kaggle (dataset)
 - Linguagem Python
 - Biblioteca Matplotlib
+
+## Referências:
+https://github.com/fmasanori/CursoPyLadiesSP/blob/master/Covid%20oficial.ipynb
+https://github.com/Chrisdangermano/Analise-de-vendas-de-jogos/blob/master/Análise%20de%20Vendas%20de%20Jogos.ipynb
