@@ -1,2 +1,8 @@
 # Analise-de-Covid-19-no-Mundo
-# hahahaha
+
+# Dupla:
+
+- Brendo Bubela Vidal 
+- Mariana dos Santos Araújo
+
+# Objetivo:
